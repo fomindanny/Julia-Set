@@ -1,2 +1,2 @@
-# Julia-Set
+# Julia Set
 Julia Set visualization
